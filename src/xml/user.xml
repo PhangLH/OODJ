@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<User>
+    <users>
+        <userAuthority>Customer</userAuthority>
+        <userEmail>meme@hotmail.com</userEmail>
+        <userID>CU1</userID>
+        <userPassword>meme</userPassword>
+        <username>meme</username>
+        <users_Name>meme</users_Name>
+    </users>
+    <users>
+        <userAuthority>Client</userAuthority>
+        <userEmail>mlink@google.com</userEmail>
+        <userID>US2</userID>
+        <userPassword>mlink</userPassword>
+        <username>mlink</username>
+        <users_Name>M-LINK</users_Name>
+    </users>
+    <users>
+        <userAuthority>Customer</userAuthority>
+        <userEmail>tomato@tomato.com</userEmail>
+        <userID>US3</userID>
+        <userPassword>tomato</userPassword>
+        <username>tomato</username>
+        <users_Name>tomato</users_Name>
+    </users>
+</User>
